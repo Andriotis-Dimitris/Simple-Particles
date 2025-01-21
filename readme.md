@@ -1,3 +1,12 @@
+# About 
+Based on Three.js Journey.
+Created to create simple particles with 3js.
+
+## Links
+
+- [GitHub](https://github.com/Andriotis-Dimitris/Simple-Particles)
+- [Live](https://simple-particles-andriotis-dimitris-projects.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
